@@ -1,6 +1,6 @@
 $out_root/
 {
-  include libcrails-form-parser/
+  include crails/
 }
 
-export $out_root/libcrails-form-parser/$import.target
+export $out_root/crails/$import.target
